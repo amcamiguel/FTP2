@@ -10,7 +10,7 @@
 
 En estas actividades intentaremos que aprendáis un poco sobre lo que era el FTP.
 
-## Indice
+## Índice
 # 1. Configurar usuario y grupos FTP
 *Accede al primer ejercicio mediante este enlace:* [Actividad Usuarios con Guía](https://github.com/amcamiguel/FTP2/blob/master/ActividadUsuarios.md)
 
